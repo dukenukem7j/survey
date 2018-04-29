@@ -1,7 +1,7 @@
 package main
 
 import (
-	"./controller"
+	"github.com/dukenukem7j/survey/controller"
 
 	"github.com/gin-gonic/gin"
 )
